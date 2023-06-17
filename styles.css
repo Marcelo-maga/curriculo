@@ -1,0 +1,33 @@
+body { 
+    font-family: 'Geologica', sans-serif;
+    background-color: #343434;
+    color: #ffffff;
+}
+
+.secondary {
+    color: #707070;
+}
+
+.container {
+    width: 100%;
+}
+
+.sla {
+    width: 80px;
+}
+
+.comp-list {
+    display: flex;
+    flex: row;
+}
+
+.section {
+    display: flex;
+    flex-direction: row;
+    align-content: top;
+    gap: 50px;
+    width: 100%;
+
+    border-bottom: 1px solid #707070;
+}
+
